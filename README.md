@@ -1,0 +1,2 @@
+# MeroDrone
+A Drone that is controlled by any Smartphone or Desktop computer through Wifi connection. The drone is built using [ESP32S2 MINI](https://www.wemos.cc/en/latest/s2/s2_mini.html) board, [MPU6050](https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/) module, [06N03LA](https://www.digikey.in/htmldatasheets/production/70674/0/0/1/ip-b-i-p-06n03la.html) mosfets, Coreless motors and a single LIPO battery. 
